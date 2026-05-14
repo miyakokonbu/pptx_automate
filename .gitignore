@@ -1,0 +1,9 @@
+# 生成ファイル・素材・テンプレート（ディレクトリ自体は保持）
+output/*
+references/*
+template/*
+
+# .gitkeep は除外しない
+!output/.gitkeep
+!references/.gitkeep
+!template/.gitkeep
