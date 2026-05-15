@@ -4,7 +4,11 @@
       "mcp__ppt__list_slide_templates",
       "mcp__ppt__create_presentation_from_templates",
       "mcp__ppt__create_presentation",
-      "mcp__ppt__save_presentation"
+      "mcp__ppt__save_presentation",
+      "mcp__ppt__open_presentation",
+      "mcp__ppt__get_presentation_info",
+      "mcp__ppt__get_slide_info",
+      "Skill(update-config)"
     ]
   },
   "enabledMcpjsonServers": [

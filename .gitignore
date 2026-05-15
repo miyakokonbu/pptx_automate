@@ -3,6 +3,9 @@ output/*
 references/*
 template/*
 
+# ローカル設定
+.claude/settings.local.json
+
 # .gitkeep は除外しない
 !output/.gitkeep
 !references/.gitkeep
